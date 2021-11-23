@@ -1,7 +1,6 @@
-# poke-microblog
+# poke-microblog 
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A frontend-only app that let you pretend to microblog as a Pokemon. My EmberJS learning project.
 
 ## Prerequisites
 
